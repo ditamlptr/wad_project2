@@ -12,7 +12,7 @@
     <?php
         echo "Selamat Datang";
         $input_angka = 4;
-        $input_string = "String aja";
+        $input_string = "String";
     ?>
 
 </body>
